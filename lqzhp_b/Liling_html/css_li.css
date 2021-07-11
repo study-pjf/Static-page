@@ -1,0 +1,188 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+}
+#mainbox {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#mainbox #logo {
+	height: 150px;
+	width: 1300px;
+	clear: both;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#mainbox #logo #logo1 {
+	float: left;
+	height: 150px;
+	width: 20%;
+}
+#mainbox #logo #logo2 {
+	float: left;
+	height: 130px;
+	width: 15%;
+	margin-top: 20px;
+}
+#mainbox #logo #logoso {
+	float: left;
+	height: 105px;
+	width: 35%;
+	margin-top: 45px;
+}
+#mainbox #logo #logoso #sos1 {
+	float: left;
+	height: 20px;
+	width: 400px;
+	color: #666;
+	font-size: 12px;
+	margin-left: 20px;
+}
+#mainbox #logo #logoso table tr td .anniu {
+	width: 60px;
+	background-color: #140001;
+	height: 33px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	color: #FFF;
+	font-weight: bold;
+	cursor: pointer;
+	padding: 0px;
+	margin-bottom: 3px;
+}
+#mainbox #logo #denglu {
+	float: right;
+	height: 110px;
+	width: 30%;
+	text-align: right;
+	padding-top: 30px;
+}
+#mainbox #daohangtiao {
+	background-color: #000;
+	clear: both;
+	height: 50px;
+	width: 100%;
+	color: #FFF;
+	font-size: 21px;
+	font-weight: bolder;
+	line-height: 50px;
+}
+#mainbox #daohangtiao #daohangtiao1 {
+	clear: both;
+	width: 1200px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#mainbox #daohangtiao table tr td a {
+	color: #FFF;
+	text-decoration: none;
+}
+#mainbox #daohangtiao table tr td a:hover {
+	color: #F00;
+}
+#mainbox #liling {
+	clear: both;
+	height: 25px;
+	width: 100%;
+	min-width: 1300px;
+	margin-right: 0px;
+	background-color: #E6E6E6;
+	line-height: 25px;
+}
+#mainbox #liling .spanad {
+	width: 1300px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#mainbox #lilingzq {
+	height: auto;
+	width: 1300px;
+	clear: both;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#mainbox #lilingzq #feilei {
+	float: left;
+	width: 25%;
+	height: 800px;
+	background-color: #F8F8F8;
+	padding-left: 3%;
+	padding-right: 2%;
+}
+#mainbox #lilingzq #feilei #spfl {
+	height: 20px;
+	width: auto;
+	clear: left;
+	padding-top: 10px;
+}
+#mainbox #lilingzq #feilei #quanbu {
+	height: 20px;
+	width: auto;
+	clear: left;
+	margin-top: 20px;
+	background-color: #CCC;
+}
+#mainbox #lilingzq #feilei #boy {
+	height: 20px;
+	width: auto;
+	clear: left;
+	margin-top: 20px;
+	background-color: #CCC;
+	padding-left: 25px;
+}
+#mainbox #lilingzq #feilei #girl {
+	height: 20px;
+	width: auto;
+	clear: left;
+	margin-top: 20px;
+	background-color: #CCC;
+	padding-left: 25px;
+}
+#mainbox #lilingzq #sp {
+	height: 800px;
+	width: 67%;
+	float: left;
+	margin-left: 1%;
+	background-color: #F8F8F8;
+	padding-left: 1%;
+	padding-right: 1%;
+}
+#mainbox #lilingzq #sp #adlogo {
+	float: left;
+	height: 70px;
+	width: 99%;
+	padding-top: 10px;
+}
+#mainbox #lilingzq #sp #xie {
+	float: left;
+	height: auto;
+	width: 100%;
+}
+#mainbox #lilingzq #sp #xie table {
+	text-align: center;
+}
+#mainbox #banquan {
+	background-color: #000;
+	clear: none;
+	height: 150px;
+	width: 100%;
+	min-width: 1200px;
+	background-repeat: repeat-x;
+	float: left;
+	margin-top: 20px;
+}
